@@ -1,0 +1,16 @@
+The Unix Philosphy
+From The UnIX Programming Environment (1984) by Brian Kernighan and Rob Pike
+
+Even though the UNIX system introduces a number of innovative programs and techniques, no single program or idea makes it work well. Instead, what makes it effective is the approach to programming, a phisophy of using the computer. Although that philosphy can't be written down in a single sentence, at its heart is the idea that the power of a system comes more from the relationships among programs than from the programs themselves. Many UNIX programs do quite tricial things in isolation, but, combined with other programs, becomes general and useful tools. The Unix Philosphy
+From The UnIX Programming Environment (1984) by Brian Kernighan and Rob Pike
+
+Even though the UNIX system introduces a number of innovative programs and tech\
+niques, no single program or idea makes it work well. Instead, what makes it ef\
+fective is the approach to programming, a phisophy of using the computer. Altho\
+ugh that philosphy can't be written down in a single sentence, at its heart is \
+the idea that the power of a system comes more from the relationships among pro\
+grams than from the programs themselves. Many UNIX programs do quite tricial th\
+ings in isolation, but, combined with other programs, becomes general and usefu\
+l tools.
+
+
